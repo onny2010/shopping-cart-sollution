@@ -41,7 +41,7 @@ document.getElementById('phone-plus').addEventListener('click', function () {
 
 document.getElementById('phone-minus').addEventListener('click', function () {
     updateProductNumber('phone', 1219, false);
-})
+});
 
 
 // handle case of increase and decrease events
